@@ -383,8 +383,8 @@ async def get_shortlink(link):
     if "http" == https:
         https = "https"
         link = link.replace("http", https)
-    url = f'https://Clicksfly.com/api'
-    params = {'api': URL_SHORTNER_WEBSITE_API,
+    url = https://adrinolinks.in'
+    params = {'api :8e4000bd40293f138f97a20168418e6b97fc88b0,
               'url': link,
               }
 
